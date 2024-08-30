@@ -1,12 +1,12 @@
 
 import './App.css';
-import Main from './Components/Main/MainPage'
+import AllRoutes from './Components/AllRoutes/Router'
 
 function App() {
 
   return (
     <div>
-      <Main/>
+      <AllRoutes/>
     </div>
   )
 }
